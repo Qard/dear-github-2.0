@@ -114,6 +114,7 @@ Signed,
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
 - Benjamin Becquet, @bbecquet (Web Developer)
 - Reid Beels, @reidab (Calagator, etc.)
+- Stephen Belanger, @qard (Node.js)
 - Peter Benjamin, @pbnj (Software Engineer)
 - Dan Bentley, @dbentley (Tilt)
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
